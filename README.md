@@ -20,7 +20,7 @@ The **Tic Tac Toe** game is a **classic two-player board game** built using **HT
 ## 📸 Screenshots  
 _Add relevant screenshots here_  
 ![image](https://github.com/user-attachments/assets/30837dd9-49de-4bae-99e9-67bcf40c3671)
-![Screenshot 2025-03-18 003319](https://github.com/user-attachments/assets/9a59b4c6-8492-4622-a657-ab25e90efc6e)
+![image](https://github.com/user-attachments/assets/3aef4ae9-b06c-4d41-a5f4-f3abebc4eef3)
 
 
 ## 🚀 Getting Started  
